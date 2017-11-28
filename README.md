@@ -1,16 +1,19 @@
-# Deep Architecture Genealogy
+# Deep Neural Network Architecture Mindmaps
 There are so many new models and architectures. If you find something interesting and worth paying attention to, please send us a pull requests (PR) and write issues.
 `README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.
 ## Mindmap Coggle Link
-https://coggle.it/diagram/Wf5mYoJbsgABUF9P
-![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
+https://coggle.it/diagram/Wh2vqsX_9wABvABu
+![https://coggle.it/diagram/Wh2vqsX_9wABvABu](DNN_Mindmap.png)
 ## Text Version
-This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
+This is automatically generated. Please send a PR on the `DNN.txt` file.
 * Reinforcement Learning Algorithms
   * [A3C, '16.02.06](https://arxiv.org/abs/1602.01783)
   * [DARLA, '17.07.26](https://arxiv.org/pdf/1707.08475.pdf)
   * [ACTKR, '17.08.17](https://arxiv.org/pdf/1708.05144.pdf)
   * [c51, '17.10.27](https://arxiv.org/pdf/1710.10044.pdf)
+* 
+  * CapsNET[Dynamic Routning Between Capsules, ’17.10.26](https://arxiv.org/abs/1710.09829)
+  * [Matrix Capsules with EM Routing, ’17.11’](https://openreview.net/pdf?id=HJWLfGWRb)
 * CNN
   * [AlexNet, '12.12](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
   * [VggNet, '14.09](https://arxiv.org/pdf/1409.1556.pdf)
