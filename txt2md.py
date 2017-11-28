@@ -6,7 +6,7 @@ head='# Deep Neural Network Architecture Mindmaps\n' \
      'There are so many new models and architectures. ' \
      'If you find something interesting and worth paying attention to, ' \
      'please send us a pull requests (PR) and write issues.\n' \
-     '`README.md` is automatically generated. Please send PRs on the `Neural Net Arch Genealogy.txt` file.\n' \
+     '`README.md` is automatically generated. Please send PRs on the `DNN.txt` file.\n' \
      '## Mindmap Coggle Link\n' \
      'https://coggle.it/diagram/Wh2vqsX_9wABvABu\n' \
      '![https://coggle.it/diagram/Wh2vqsX_9wABvABu](DNN_Mindmap.png)\n' \
