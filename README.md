@@ -11,8 +11,8 @@ This is automatically generated. Please send a PR on the `DNN.txt` file.
   * [DARLA, '17.07.26](https://arxiv.org/pdf/1707.08475.pdf)
   * [ACTKR, '17.08.17](https://arxiv.org/pdf/1708.05144.pdf)
   * [c51, '17.10.27](https://arxiv.org/pdf/1710.10044.pdf)
-* 
-  * CapsNET[Dynamic Routning Between Capsules, ’17.10.26](https://arxiv.org/abs/1710.09829)
+* CapsNET
+  * [Dynamic Routning Between Capsules, ’17.10.26](https://arxiv.org/abs/1710.09829)
   * [Matrix Capsules with EM Routing, ’17.11’](https://openreview.net/pdf?id=HJWLfGWRb)
 * CNN
   * [AlexNet, '12.12](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
